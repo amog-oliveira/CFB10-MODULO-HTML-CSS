@@ -9,10 +9,11 @@ Ao final de cada aula, atualize seu repositório.
 
 O nosso projeto final será um portfólio feito em HTML, CSS e hospedado no netlify.
 
-Para o módulo I usaremos as seguintes tecnologias:
-✓		Visual Studio Code como ambiente de desenvolvimento.
-✓		Github como ferramenta de versionamento.
-✓		Netlify para realizarmos o Deploy da nossa aplicação.
+Para o módulo III usaremos as seguintes tecnologias:
+
+✓ Visual Studio Code como ambiente de desenvolvimento.
+✓ Github como ferramenta de versionamento.
+✓ Netlify para realizarmos o Deploy da nossa aplicação.
 
 <br>
 
@@ -44,7 +45,7 @@ Para o módulo I usaremos as seguintes tecnologias:
 
 ## `Apresentação da aula`
 
-- [link da apresentação](#)
+- Aula 1 - HTML: [link da apresentação](https://www.canva.com/design/DAGCiAsCBzo/1u4po3bdJrDWhZS_Utio9g/view?utm_content=DAGCiAsCBzo&utm_campaign=designshare&utm_medium=link&utm_source=editor)
 
 --- 
 <br>
@@ -55,10 +56,10 @@ __Vai ser incrível caminharmos juntas! Qualquer dúvida ou sugestão, fala comi
 
 Professora:
 
-- [instagram](https://www.instagram.com/amanda.gregorio5)
 - [linkedin](https://www.linkedin.com/in/amanda-gregorio4/)
+- [instagram](https://www.instagram.com/amanda.gregorio5)
 
 Monitora:
 
+- [linkedin](https://www.linkedin.com/in/laissasc/)
 - [instagram](#)
-- [linkedin](#)
