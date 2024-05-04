@@ -45,7 +45,7 @@ Para o módulo III usaremos as seguintes tecnologias:
 
 ## `Apresentação da aula`
 
-- Aula 1 - HTML: [link da apresentação](https://www.canva.com/design/DAGCiAsCBzo/1u4po3bdJrDWhZS_Utio9g/view?utm_content=DAGCiAsCBzo&utm_campaign=designshare&utm_medium=link&utm_source=editor)
+- Aula 1 e Aula2 - HTML: [link da apresentação](https://www.canva.com/design/DAGCiAsCBzo/1u4po3bdJrDWhZS_Utio9g/view?utm_content=DAGCiAsCBzo&utm_campaign=designshare&utm_medium=link&utm_source=editor)
 
 --- 
 <br>
